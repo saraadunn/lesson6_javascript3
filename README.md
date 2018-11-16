@@ -4,20 +4,20 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(November 14 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Sara Dunn)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignment utilizes javascript to make a photo gallery of cars using left and right arrows and showing more images in background. )
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (One lesson learned is how to add src elements to images.)
+2. (One lesson learned is how to shift images to left and right to use the left and right arrow for the slideshow.)
+3. (One lesson learned is how to use functions to show the background images when clicking show more images.)
 
