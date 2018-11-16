@@ -13,8 +13,7 @@ Web Application Development
 (This assignment utilizes javascript to make a photo gallery of cars using left and right arrows and showing more images in background. )
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://saraadunn.github.io/lesson6_javascript3/.)
 
 ### Lessons Learned in the Assignment:
 1. (One lesson learned is how to add src elements to images.)
